@@ -1,0 +1,29 @@
+.lgap {
+  padding: 1rem;
+  margin-top: 6rem;
+}
+
+.bannerLayout {
+  min-height: unset;
+  background-color: unset;
+}
+
+.subtitle {
+  margin-bottom: 2rem;
+}
+
+.bannerWrapper {
+  margin-top: 4rem;
+  display: flex;
+  align-items: center;
+
+  .bannerContent {
+    color: #ffffff;
+  }
+  .appHeader {
+    display: absolute;
+    width: 100%;
+    justify-content: center;
+    background-color: aqua;
+  }
+}

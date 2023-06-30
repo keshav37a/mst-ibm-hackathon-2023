@@ -1,0 +1,22 @@
+{
+  "name": "mind-space-tracker-be",
+  "version": "1.0.0",
+  "description": "An application which tracks a user's mental well being data through detailed questionnaires and provides solutions to avoid employee burnout.",
+  "main": "index.js",
+  "repository": "https://github.ibm.com/Keshav-Mathur/mind-data-miners-hck-2023",
+  "author": "Keshav",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.3.0",
+    "mongoose-unique-validator": "^4.0.0",
+    "multer": "^1.4.5-lts.1",
+    "nodemailer": "^6.9.3",
+    "nodemon": "^2.0.22"
+  }
+}

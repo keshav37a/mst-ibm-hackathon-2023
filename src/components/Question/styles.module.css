@@ -1,0 +1,9 @@
+.questionWrapper {
+  margin-bottom: 1.5rem;
+}
+
+.qTextWrapper {
+  display: flex;
+  margin-bottom: 1rem;
+  align-items: center;
+}

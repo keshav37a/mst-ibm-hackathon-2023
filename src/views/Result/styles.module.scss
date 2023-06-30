@@ -1,0 +1,62 @@
+.bannerWrapper {
+  display: flex;
+  align-items: center;
+}
+
+.bannerContent {
+  color: #ffffff;
+}
+.mrgTop {
+  margin-top: 12rem;
+}
+
+.badgeContainer {
+  display: flex;
+  margin-top: -5rem;
+
+  .badge {
+    max-width: 6rem;
+    max-height: 6rem;
+    margin-right: 2rem;
+    margin-left: -5rem;
+    margin-top: 1rem;
+  }
+}
+
+.yellowList {
+  margin-top: 1rem;
+  color: brown;
+}
+
+.content {
+  display: flex;
+  align-items: center;
+}
+
+ul {
+  font-size: 1rem;
+}
+
+li {
+  list-style: disc;
+  margin-left: 1.5rem;
+  // display: flex;
+  // align-items: center;
+
+  h5 {
+    display: inline-block;
+  }
+}
+
+.callbackBtn {
+  margin-top: 1rem;
+  padding: 1rem;
+  background: green;
+}
+
+.callbackBtnBlue {
+  margin-top: 1rem;
+  padding: 1rem;
+  background: rgb(91, 138, 192);
+  margin-left: 1rem;
+}

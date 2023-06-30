@@ -1,0 +1,21 @@
+.ff {
+  font-family: sans-serif;
+}
+
+.lgap {
+  padding: 1rem;
+}
+
+.bannerLayout {
+  min-height: unset;
+  background-color: unset;
+}
+
+.bannerWrapper {
+  display: flex;
+  align-items: center;
+
+  .bannerContent {
+    color: #ffffff;
+  }
+}

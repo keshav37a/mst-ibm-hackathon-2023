@@ -1,0 +1,15 @@
+.layoutWrapper {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  padding: 0 1rem;
+}
+
+.layout {
+  max-width: 80rem;
+  width: 100%;
+}
+
+.fullScreenHeight {
+  min-height: 100vh;
+}
